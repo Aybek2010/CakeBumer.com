@@ -1,0 +1,250 @@
+.image-container {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 5px;
+    left: 40px;
+}
+
+.image1 {
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    top: 575px;
+    left: 50px;
+}
+
+.image2 {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    top: 575px;
+    left: 1000px;
+
+}
+
+.image3  {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 575px;
+    left: 550px;
+
+}
+
+.text-center1 {
+    position: absolute;
+    top: 280px;
+    left: 1100px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+
+.text-center2 {
+    position: absolute;
+    top: 370px;
+    left: 1115px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+.text-center3 {
+    position: absolute;
+    top: 30px;
+    left: 180px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px
+}
+
+
+.text-center4{
+    display: block;
+    color: inherit;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    z-index: 10;
+}
+
+.text-center5{
+    position: absolute;
+    top: 20px;
+    left: 1000px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.text-center6 {
+    position: absolute;
+    top: 595px;
+    left: 270px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+.text-center7 {
+    position: absolute;
+    top: 640px;
+    left: 335px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+.text-center8 {
+    position: absolute;
+    top: 595px;
+    left: 765px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+.text-center9 {
+    position: absolute;
+    top: 640px;
+    left: 812px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+.text-center10 {
+    position: absolute;
+    top: 595px;
+    left: 1200px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+
+.text-center11 {
+    position: absolute;
+    top: 650px;
+    left: 1250px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+.text-1 {
+    position: absolute;
+    top: 30px;
+    left: 930px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+
+.button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    }
+
+.button-one {
+    position: absolute;
+    top: 30px;
+    left: 1320px;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    }
+
+
+.button-two {
+    position: absolute;
+    top: 30px;
+    left: 1460px;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;*/
+    background-color: #007BFF;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+
+.button-three {
+    position: absolute;
+    top: 420px;
+    left: 1110px;
+    transform: translate(-50%, -50%);
+    padding: 10px 50px;
+    font-size: 16px;
+    color: #fff; /
+    background-color: #007BFF;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+            left: 100px;
+        }
+.text {
+    font-size: 24px;
+}
